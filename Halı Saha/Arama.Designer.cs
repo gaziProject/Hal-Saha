@@ -182,6 +182,8 @@
             this.ForeColor = System.Drawing.Color.Black;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(4);
+            this.MaximumSize = new System.Drawing.Size(638, 557);
+            this.MinimumSize = new System.Drawing.Size(638, 557);
             this.Name = "Arama";
             this.Text = "Arama";
             this.Load += new System.EventHandler(this.Arama_Load);

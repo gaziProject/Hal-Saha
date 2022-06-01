@@ -66,6 +66,8 @@
             this.Controls.Add(this.ıconButton1);
             this.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.MaximumSize = new System.Drawing.Size(315, 96);
+            this.MinimumSize = new System.Drawing.Size(315, 96);
             this.Name = "warning";
             this.Text = "warning";
             this.ResumeLayout(false);

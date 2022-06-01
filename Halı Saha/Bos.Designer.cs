@@ -37,6 +37,8 @@
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.ClientSize = new System.Drawing.Size(638, 557);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.MaximumSize = new System.Drawing.Size(638, 557);
+            this.MinimumSize = new System.Drawing.Size(638, 557);
             this.Name = "Bos";
             this.Text = "Bos";
             this.ResumeLayout(false);
