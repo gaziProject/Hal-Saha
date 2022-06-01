@@ -210,6 +210,8 @@
             this.Controls.Add(this.ıconButton1);
             this.ForeColor = System.Drawing.Color.WhiteSmoke;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.MaximumSize = new System.Drawing.Size(638, 557);
+            this.MinimumSize = new System.Drawing.Size(638, 557);
             this.Name = "Girisyap";
             this.Text = "Girisyap";
             this.Load += new System.EventHandler(this.Girisyap_Load);

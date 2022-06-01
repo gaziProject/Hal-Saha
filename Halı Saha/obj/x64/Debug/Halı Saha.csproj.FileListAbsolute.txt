@@ -1,0 +1,21 @@
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\bin\x64\Debug\Halı Saha.exe.config
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\bin\x64\Debug\Halı Saha.exe
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\bin\x64\Debug\Halı Saha.pdb
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\bin\x64\Debug\FontAwesome.Sharp.dll
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı Saha.csproj.AssemblyReference.cache
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı Saha.csproj.SuggestedBindingRedirects.cache
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Adres.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.AnaEkran.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Arama.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Bos.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Girisyap.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Kayıtol.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Profil.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Properties.Resources.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Sifremiunuttum.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı_Saha.Sifreyenileme.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı Saha.csproj.GenerateResource.cache
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı Saha.csproj.CoreCompileInputs.cache
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı Saha.csproj.CopyComplete
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı Saha.exe
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\x64\Debug\Halı Saha.pdb

@@ -18,3 +18,5 @@ C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\Debug\Halı_Saha.Sifreyenileme.
 C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\Debug\Halı_Saha.AnaEkran.resources
 C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\Debug\Halı_Saha.Arama.resources
 C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\Debug\Halı_Saha.Profil.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\Debug\Halı_Saha.Adres.resources
+C:\Users\onur_\Desktop\Halı Saha\Halı Saha\obj\Debug\Halı_Saha.AdresChild.resources
