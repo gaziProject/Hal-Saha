@@ -45,5 +45,10 @@ namespace Halı_Saha
                 textBox2.Text = null;
             }
         }
+
+        private void Sifremiunuttum_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
