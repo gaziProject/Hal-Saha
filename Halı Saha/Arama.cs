@@ -14,7 +14,7 @@ namespace Halı_Saha
 {
     public partial class Arama : Form
     {
-        OleDbConnection baglanti = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0; Data Source =C:\\Users\\onur_\\Documents\\GitHub\\HaliSahaRezervasyonSistemi\\Halı Saha Rezervasyonu\\Halısaha.mdb");
+        OleDbConnection baglanti = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0; Data Source = C:\\Users\\onur_\\Documents\\GitHub\\HaliSahaRezervasyonSistemi\\Halı Saha Rezervasyonu\\Halısaha.mdb");
         // Yolu buraya girin.
 
         // Bu datagridview'i yiğite kitledim.

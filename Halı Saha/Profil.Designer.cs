@@ -114,7 +114,7 @@
             this.ıconButton1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.ıconButton1.Location = new System.Drawing.Point(3, 3);
             this.ıconButton1.Name = "ıconButton1";
-            this.ıconButton1.Size = new System.Drawing.Size(214, 55);
+            this.ıconButton1.Size = new System.Drawing.Size(214, 61);
             this.ıconButton1.TabIndex = 1;
             this.ıconButton1.Text = "Hoş geldiniz,";
             this.ıconButton1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.OleDb;
 
 namespace Halı_Saha
 {
@@ -16,6 +17,8 @@ namespace Halı_Saha
         {
             InitializeComponent();
         }
+
+        OleDbConnection con = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0; Data Source = C:\\Users\\onur_\\Documents\\GitHub\\HaliSahaRezervasyonSistemi\\Halı Saha Rezervasyonu\\Halısaha.mdb");
 
         private void Girisyap_Load(object sender, EventArgs e)
         {
